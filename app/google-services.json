@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "231833466243",
+    "firebase_url": "https://foodex-ab3ad-default-rtdb.firebaseio.com",
+    "project_id": "foodex-ab3ad",
+    "storage_bucket": "foodex-ab3ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231833466243:android:63874792985f10195cb2b6",
+        "android_client_info": {
+          "package_name": "com.example.foodex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231833466243-6rs7s2m6ubutsvl0d9sbfkivaoc1jrdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-K-F0MHZsr-HZoQ_q79h0wGHrRHoFPrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231833466243-6rs7s2m6ubutsvl0d9sbfkivaoc1jrdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
